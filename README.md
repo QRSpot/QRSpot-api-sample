@@ -1,4 +1,4 @@
-# QR generate API
+# QR Generate API
 
 > [!IMPORTANT]
 > このAPIは指定のurlをqrにして提供するAPIです。
